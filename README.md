@@ -32,7 +32,7 @@ http://filmotekaa-001-site1.atempurl.com/
 <div align="right">
 
 #### Autorzy &emsp;&emsp;&emsp;&nbsp;&nbsp;
-##### Szymon Cieśla  &emsp;&emsp;&nbsp;
+##### <a href="https://github.com/cieslu">Szymon Cieśla</a>  &emsp;&emsp;&nbsp;
 ##### Szymon Zielonka  &emsp;
 
 </div>
